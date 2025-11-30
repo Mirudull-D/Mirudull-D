@@ -2,10 +2,8 @@
 Hi there, I'm Mirudull D <br><br>👨💻 About Me<br><br>🔭 I’m currently working on Backend Development <br><br>🌱 I’m currently learning Node.js/Express.js<br><br>👯 I’m looking to collaborate on Making API's<br><br>📫 How to reach me: d.mirudull@gmail.com<br><br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirudull_d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d.mirudull@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -25,13 +23,8 @@ Hi there, I'm Mirudull D <br><br>👨💻 About Me<br><br>🔭 I’m currently w
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Mirudull-D&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mirudull-D&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mirudull-D&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
